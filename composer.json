@@ -1,0 +1,23 @@
+{
+  "name": "hjlice/sss",
+  "type": "library",
+  "description": "sss",
+  "keywords": ["laravel","lumen"],
+  "homepage": "https://github.com/hjlice/sss",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "yimao",
+      "email": "hjliceo@qq.com",
+      "homepage": "http://github.com/hjlice",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=7.0.0"
+  },
+  "autoload": {
+    "psr-0": {
+    }
+  }
+}
